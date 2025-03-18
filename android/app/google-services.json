@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "922321033413",
+    "project_id": "speed-limit-notifier",
+    "storage_bucket": "speed-limit-notifier.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922321033413:android:3c661325668e300fc478ac",
+        "android_client_info": {
+          "package_name": "com.example.speed_limit_notifier"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAls-ESXA4pueTOqpHXq4UgQma_4HQPAtk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
